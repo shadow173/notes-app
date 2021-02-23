@@ -1,0 +1,14 @@
+nav{
+    justify-content: center !important;
+}
+body{
+    background-color: #2C2F33 !important;
+}
+.center{
+    justify-content: center !important;
+}
+.card{
+    max-width: 1000px;
+    display: block;
+    margin: auto;
+}
